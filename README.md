@@ -12,7 +12,7 @@
 - HTML, CSS, since 2020
 - JS JQuery, since 2021
 
-## Projects I made on 🏢
+## Projects I made 🏢
 - FiveM National War - A PVPVE gamemode for FiveM inspired from GTA:O
 - FiveM PUBG Experience - A gamemode that is inspired from PUBG Mobile, made for FiveM players to try something different
 <!--
