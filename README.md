@@ -7,7 +7,14 @@
 - 🌍 From: Jerusalem, Palestine
 - 😄 Pronouns: He/Him
 
+## Experience 🧠
+- FiveM LUA, since 2019
+- HTML, CSS, since 2020
+- JS JQuery, since 2021
 
+## Projects I made on 🏢
+- FiveM National War - A PVPVE gamemode for FiveM inspired from GTA:O
+- FiveM PUBG Experience - A gamemode that is inspired from PUBG Mobile, made for FiveM players to try something different
 <!--
 **mash6oob/mash6oob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
