@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a project called LOOP
+- 🌱 I’m currently focusing on my repository LOOP - PUBG Experience in FiveM
+- 📫 How to reach me: yousef.habibi@outlook.com
+- 🌍 From: Jerusalem, Palestine
+- 😄 Pronouns: He/Him
+
+
 <!--
 **mash6oob/mash6oob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
