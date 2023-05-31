@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## About me ❔
 - 🔭 I’m currently working on a project called LOOP
