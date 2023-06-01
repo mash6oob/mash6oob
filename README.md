@@ -5,7 +5,6 @@
 - 🌱 I’m currently focusing on my repository LOOP - PUBG Experience in FiveM
 - 📫 How to reach me: yousef.habibi@outlook.com
 - 🌍 From: Jerusalem, Palestine
-- 😄 Pronouns: He/Him
 
 ## Experience 🧠
 - FiveM LUA, since 2019
