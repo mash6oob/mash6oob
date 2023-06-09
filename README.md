@@ -1,5 +1,7 @@
 # Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Itz+Yousef%2C+Discord%3A+yousef.ibraheem;Developing+in+FiveM+LUA+since+2019;Uses+HTML%2C+CSS%2C+JS+JQuery)](https://git.io/typing-svg)
+
 ## About me ❔
 - 🔭 I’m currently working on a project called LOOP
 - 🌱 I’m currently focusing on my repository LOOP - PUBG Experience in FiveM
