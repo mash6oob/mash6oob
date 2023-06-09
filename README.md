@@ -1,6 +1,16 @@
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Itz+Yousef%2C+Discord%3A+yousef.ibraheem;Developing+in+FiveM+LUA+since+2019;Uses+HTML%2C+CSS%2C+JS+JQuery)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Itz+Yousef%2C+Discord%3A+yousef.ibraheem;Developing+in+FiveM+LUA+since+2019;Uses+HTML%2C+CSS%2C+JS+JQuery)](https://git.io/typing-svg)
+-->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" style="text-align:center;">
+  <a href="https://www.instagram.com/yousef.ibraheem1/">
+    <img src="https://img.shields.io/badge/Instagtram-fb3958?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Account"/>
+  </a>
+</div>
 
 ## About me ❔
 - 🔭 I’m currently working on a project called LOOP
