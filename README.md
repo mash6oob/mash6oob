@@ -13,8 +13,8 @@
 </div>
 
 ## About me ❔
-- 🔭 I’m currently working on a project called LOOP
-- 🌱 I’m currently focusing on my repository LOOP - PUBG Experience in FiveM
+- 🔭 I’m currently working on my store called LOOP
+- 🌱 I’m currently focusing on Freelancing
 - 📫 How to reach me: yousef.habibi@outlook.com
 - 🌍 From: Jerusalem, Palestine
 
