@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Yousef Ibraheem from Jerusalem, Palestine. I am working with LUA since 2019.
+I'm Yousef Ibraheem from Jerusalem, Palestine.
 
 
 ## 🌐 Socials:
