@@ -1,42 +1,25 @@
-# Hi there 👋
+# 💫 About Me:
+I'm Yousef Ibraheem from Jerusalem, Palestine. I am working with LUA since 2019.
 
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Itz+Yousef%2C+Discord%3A+yousef.ibraheem;Developing+in+FiveM+LUA+since+2019;Uses+HTML%2C+CSS%2C+JS+JQuery)](https://git.io/typing-svg)
--->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
-<div id="badges" style="text-align:center;">
-  <a href="https://www.instagram.com/yousef.ibraheem1/">
-    <img src="https://img.shields.io/badge/Instagtram-fb3958?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Account"/>
-  </a>
-</div>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cdrVHVh6FU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yousef.ibraheem1) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yousef.ibraheem1) 
 
-## About me ❔
-- 🔭 I’m currently working on my store called LOOP
-- 🌱 I’m currently focusing on Freelancing
-- 📫 How to reach me: yousef.habibi@outlook.com
-- 🌍 From: Jerusalem, Palestine
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mash6oob&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mash6oob&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mash6oob&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## Experience 🧠
-- FiveM LUA, since 2019
-- HTML, CSS, since 2020
-- JS JQuery, since 2021
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## Projects I made 🏢
-- FiveM National War - A PVPVE gamemode for FiveM inspired from GTA:O
-- FiveM PUBG Experience - A gamemode that is inspired from PUBG Mobile, made for FiveM players to try something different
-<!--
-**mash6oob/mash6oob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+[![](https://visitcount.itsvg.in/api?id=mash6oob&icon=1&color=6)](https://visitcount.itsvg.in)
 
-Here are some ideas to get you started:
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yousefyousef1425) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
