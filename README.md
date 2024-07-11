@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm Yousef Ibraheem from Jerusalem, Palestine.
+I'm currently the founder and owner of the National War FiveM server, you should try it 😉
 
 
 # 💻 Tech Stack:
